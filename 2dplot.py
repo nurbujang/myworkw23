@@ -7,6 +7,6 @@ plt.plot([1, 2, 3, 4], [1, 4, 9, 16]) # will create crooked line instead of what
 plt.ylabel('some numbers')
 plt.show()
 '''
-plt.plot([1, 2, 3, 4], [1, 4, 9, 16],'g^')  # plot x and y using blue circle markers
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16],'g^')  # plot x and y using green triangle markers
 plt.ylabel('some numbers')
 plt.show()
